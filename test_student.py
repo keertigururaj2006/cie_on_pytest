@@ -1,4 +1,3 @@
-
 from student import student_details
 
 def test_student_details():
