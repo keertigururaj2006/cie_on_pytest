@@ -1,8 +1,8 @@
 def student_details(name, usn, div, age):
     result = (
-        f"Student Name: {name}\n"
-        f"Student USN : {usn}\n"
-        f"Division: {div}\n"
+        f"Name: {name}\n"
+        f"USN : {usn}\n"
+        f"DIVISION: {div}\n"
         f"Age: {age}"
     )
     return result
